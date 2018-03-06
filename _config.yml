@@ -1,5 +1,5 @@
 # Site settings
-title: https://spyrx7.github.io Blog
+title: spyrx7 Blog
 SEOTitle: 如此如此 | Hux Blog
 header-img: img/home-bg.jpg
 email: spyhanfeng@qq.com
@@ -61,7 +61,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: junjianliu.cn
 
 
 

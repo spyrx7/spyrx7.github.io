@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: spyhanfeng@qq.com
 description: "关于游戏与设计、黑客与画家 | 如此如此，Game & Mobile Lover，Software Engineer，UX Designer | 这里是 @如此如此 的个人博客，与你一起发现更大的世界。"
 keyword: "如此如此, spyrx7, @spyrx7, 如此如此的博客, 博客, 个人网站, 互联网, Web, JavaScript, 游戏, 设计"
-url: "https://junjianliu.cn"              # your host, for absolute URL
+url: "https://spyrx7.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 

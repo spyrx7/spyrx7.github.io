@@ -1,6 +1,6 @@
 # Site settings
 title: spyrx7 Blog
-SEOTitle: 如此如此 | Hux Blog
+SEOTitle: 如此如此 | Blog
 header-img: img/home-bg.jpg
 email: spyhanfeng@qq.com
 description: "关于游戏与设计、黑客与画家 | 如此如此，Game & Mobile Lover，Software Engineer，UX Designer | 这里是 @如此如此 的个人博客，与你一起发现更大的世界。"
@@ -48,7 +48,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+disqus_username: spyrx7
 
 # Netease setttings
 netease_comment: false

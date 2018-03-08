@@ -48,7 +48,10 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: spyrx7
+#disqus_username: spyrx7
+
+# Duoshuo settings
+duoshuo_username:spyrx7
 
 # Netease setttings
 netease_comment: false

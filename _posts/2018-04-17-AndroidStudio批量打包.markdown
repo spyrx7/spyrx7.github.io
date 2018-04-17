@@ -117,4 +117,4 @@ android {
 
 > 好的,这一步最简单了,我们Build > Generate Signed APK 然后选完我们要打包的渠道,开始编译,等待就好了.
 
-![](../../../../img/in-post/post-alitrip-pd/Androidstudiopiliang.png)
+![](http://junjianliu.cn/img/in-post/post-alitrip-pd/Androidstudiopiliang.png)

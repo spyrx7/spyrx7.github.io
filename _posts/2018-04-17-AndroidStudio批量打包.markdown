@@ -23,12 +23,12 @@ tags:
 > 我们接入友盟统计通常我们都会在清单配置渠道名 ,我们这一步骤就是使用变量替换它.
 
 
-```
+``` java
   // 未替换变量
   <meta-data android:value="Google Play" android:name="UMENG_CHANNEL"/>
 ```
 
-```
+``` java
   // 已替换变量
   <meta-data android:value="${UMENG_CHANNEL_VALUE}" android:name="UMENG_CHANNEL"/>
 ```
@@ -38,7 +38,7 @@ tags:
 > 接下来我们到app.gradle 文件里(如果没有改名的话,是这个),在Android 这个标签里添加下面的代码.说明一下 UMENG_CHANNEL_VALUE
 是在步骤一(AndroidManifest.xml)里定义的那个变量.至于命名,自己看着办吧
 
-```
+``` java
 
 android {
 
@@ -74,7 +74,7 @@ android {
 
 > 或者这样的 , 二选一
 
-```
+``` java
 android {
 
     ...
